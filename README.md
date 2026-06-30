@@ -1,9 +1,7 @@
 # XDC_FlowCore
 
-Under construction. 
+Remake of XDC Public Nexus (RPC load balancer with endpoint health checks). 
 
----
-
-Still not convinced this is a product that is needed on the network so temporarily paused (again). Will circle back around to it if/when there is a network need based on user requests (or alternately when I get time) --> Not a priority right now
+Project on hold as no longer really required in the ecosystem as reliable RPCs can be accessed via commercial RPC-as-a-Service providers
 
 ---
